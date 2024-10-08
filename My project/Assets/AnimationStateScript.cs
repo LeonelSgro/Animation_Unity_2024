@@ -33,11 +33,11 @@ public class AnimationStateScript : MonoBehaviour
             animatons.SetBool(Walkinghash, false);
         }
 
-        if(!isRunning && (forewardPress || Runpress)){
+        if(!isRunning && (forewardPress && Runpress)){
             animatons.SetBool(Runninghash, true);
         }
 
-        if(isRunning && !(forewardPress || Runpress)){
+        if(isRunning && (!forewardPress || Runpress)){
             animatons.SetBool(Runninghash, false);
         }
 
