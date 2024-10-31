@@ -304,7 +304,7 @@
 -r:"Library/Bee/artifacts/2400b0aP.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/NewBehaviourScript.cs"
+"Assets/AudioSpectrumToEmission.cs"
 "Assets/PlayLatestAudio.cs"
 -langversion:9.0
 /deterministic

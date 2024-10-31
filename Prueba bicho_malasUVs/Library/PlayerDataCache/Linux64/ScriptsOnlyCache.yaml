@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - AudioSpectrumToEmission
     - PlayLatestAudio
     Unity.Postprocessing.Runtime.dll:
     - UnityEngine.Rendering.PostProcessing.AmbientOcclusion
@@ -85,6 +86,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -92,27 +95,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2444}
+      Script: {instanceID: 2440}
     - Class: 114
-      Script: {instanceID: 3624}
+      Script: {instanceID: 3620}
     - Class: 114
-      Script: {instanceID: 4576}
+      Script: {instanceID: 4572}
     - Class: 114
-      Script: {instanceID: 4720}
+      Script: {instanceID: 4716}
     - Class: 114
-      Script: {instanceID: 4866}
+      Script: {instanceID: 4862}
     - Class: 114
-      Script: {instanceID: 4896}
+      Script: {instanceID: 4892}
     - Class: 114
-      Script: {instanceID: 5168}
+      Script: {instanceID: 5164}
     - Class: 114
-      Script: {instanceID: 5196}
+      Script: {instanceID: 5192}
+    - Class: 114
+      Script: {instanceID: 5938}
+    - Class: 114
+      Script: {instanceID: 6036}
     - Class: 114
       Script: {instanceID: 7226}
     - Class: 114
       Script: {instanceID: 7502}
-    - Class: 114
-      Script: {instanceID: 23638}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -770,6 +775,18 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
+      Hash: 3a82e2761a1623f943d04e8cb012b4cf
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AudioSpectrumToEmission
+  - hash:
+      serializedVersion: 2
+      Hash: 99820b34fe00c61b97eb6801661c6607
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayLatestAudio
+  - hash:
+      serializedVersion: 2
       Hash: da5a949a0bbd2ff91bc51c5805c2c41f
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -1044,18 +1061,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 351f275515398e10986dfe5b3946f666
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: NewBehaviourScript
-  - hash:
-      serializedVersion: 2
-      Hash: 99820b34fe00c61b97eb6801661c6607
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PlayLatestAudio
   platform: 24
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
