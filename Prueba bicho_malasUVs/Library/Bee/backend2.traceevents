@@ -1,0 +1,253 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1730381647524408, "dur":2543, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730381647526979, "dur":252, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730381647527244, "dur":2325, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730381647529572, "dur":198884, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730381647728567, "dur":228, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1730381647527051, "dur":2524, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730381647529576, "dur":377, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530287, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Descargas/Prueba bicho_malasUVs/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530382, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Descargas/Prueba bicho_malasUVs/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530454, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Descargas/Prueba bicho_malasUVs/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530727, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Descargas/Prueba bicho_malasUVs/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530973, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647531074, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647531182, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647531241, "dur":451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647531715, "dur":912, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647532628, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647532909, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647532964, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647533100, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647533162, "dur":403, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647533565, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647533732, "dur":776, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647534508, "dur":5650, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647540159, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647540271, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647540348, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":1, "ts":1730381647540415, "dur":15010, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647555426, "dur":14918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647570345, "dur":10885, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647581231, "dur":4770, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647586071, "dur":1542, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647587621, "dur":1952, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647589574, "dur":11413, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647601023, "dur":2570, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647603636, "dur":5046, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647608702, "dur":2763, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647611500, "dur":5037, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1730381647616538, "dur":7031, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647623571, "dur":2743, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647626316, "dur":4549, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647630867, "dur":5084, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647635953, "dur":3307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647639262, "dur":7158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647646487, "dur":4268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730381647530179, "dur":120578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730381647650810, "dur":77277, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730381647728357, "dur":72, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1730381647527076, "dur":2504, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730381647529582, "dur":228, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730381647529810, "dur":152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730381647530573, "dur":85, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647530672, "dur":80, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647530766, "dur":97, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647530877, "dur":88, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647530997, "dur":76, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647531098, "dur":54, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1730381647531167, "dur":7300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730381647540194, "dur":3970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1730381647544169, "dur":16336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730381647544169, "dur":16337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730381647560519, "dur":87, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730381647560620, "dur":97, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647560732, "dur":69, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647560814, "dur":92, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647560920, "dur":496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647561429, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647562414, "dur":102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647562529, "dur":89, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647562631, "dur":84, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647562728, "dur":922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730381647563653, "dur":164809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730381647527086, "dur":2499, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730381647529588, "dur":176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730381647529765, "dur":195, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730381647530782, "dur":116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730381647530912, "dur":101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730381647531051, "dur":75, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730381647531140, "dur":243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1730381647531392, "dur":2409, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730381647533805, "dur":132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730381647534015, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":3, "ts":1730381647535970, "dur":1435, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730381647535969, "dur":1438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730381647537424, "dur":2743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730381647540232, "dur":4117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730381647544363, "dur":8703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730381647553089, "dur":14664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1730381647567760, "dur":160708, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730381647527107, "dur":2483, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730381647529593, "dur":166, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730381647529759, "dur":201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531156, "dur":90, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531262, "dur":104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531379, "dur":88, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531501, "dur":95, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531610, "dur":125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647531758, "dur":330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647532094, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647532094, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647532175, "dur":191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647532370, "dur":2499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1730381647532370, "dur":2500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1730381647534925, "dur":102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1730381647535049, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1730381647537827, "dur":21735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1730381647559576, "dur":129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647559715, "dur":232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647559956, "dur":125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560143, "dur":110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560264, "dur":224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560499, "dur":63, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560578, "dur":86, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560678, "dur":70, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560761, "dur":111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647560885, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1730381647561559, "dur":222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647561794, "dur":334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647562142, "dur":167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647562322, "dur":79, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647562419, "dur":535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647562968, "dur":150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647563133, "dur":148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730381647563285, "dur":165196, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730381647527119, "dur":2480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730381647529601, "dur":211, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730381647529812, "dur":142, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530120, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Descargas/Prueba bicho_malasUVs/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530120, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530299, "dur":314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530627, "dur":76, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530718, "dur":87, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647530829, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730381647532453, "dur":164247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/UnityPlayer.so" }}
+,{ "pid":12345, "tid":5, "ts":1730381647696705, "dur":31749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730381647527160, "dur":2444, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730381647529605, "dur":208, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730381647529813, "dur":143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730381647530308, "dur":62, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647530379, "dur":87, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647530478, "dur":63, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647530554, "dur":188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647531072, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730381647530774, "dur":459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647531249, "dur":85, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647531354, "dur":210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730381647531597, "dur":5549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1730381647537156, "dur":26755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1730381647563914, "dur":164546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730381647527169, "dur":2442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730381647529611, "dur":210, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730381647529821, "dur":137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730381647530842, "dur":194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730381647531060, "dur":76, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730381647531151, "dur":3173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1730381647534431, "dur":1553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1730381647536001, "dur":72, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730381647536092, "dur":88, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Resources/UnityPlayer.png" }}
+,{ "pid":12345, "tid":7, "ts":1730381647536232, "dur":46954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":7, "ts":1730381647583191, "dur":145285, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730381647527169, "dur":2439, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730381647529609, "dur":179, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730381647529789, "dur":175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730381647530498, "dur":147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647530655, "dur":164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647530833, "dur":113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647530980, "dur":127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531116, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531175, "dur":133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531347, "dur":140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531522, "dur":106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531648, "dur":77, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647531739, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647533011, "dur":29738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1730381647562763, "dur":180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647562956, "dur":270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730381647563229, "dur":165266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730381647527176, "dur":2438, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730381647529659, "dur":304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730381647530929, "dur":119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647531096, "dur":84, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647531194, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1730381647531386, "dur":112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647531532, "dur":283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647531850, "dur":262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647532116, "dur":1372, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647532115, "dur":1374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647533500, "dur":3302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730381647536824, "dur":37518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":9, "ts":1730381647574346, "dur":154125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730381647527240, "dur":2385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730381647529625, "dur":332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730381647530410, "dur":112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647530543, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647530724, "dur":151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647530880, "dur":2032, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647530880, "dur":2033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647532925, "dur":4802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647537760, "dur":4880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1730381647542680, "dur":5326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1730381647548010, "dur":14750, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1730381647548010, "dur":14751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1730381647562777, "dur":120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1730381647562911, "dur":216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647563139, "dur":94, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730381647563237, "dur":165220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730381647527254, "dur":2375, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730381647529629, "dur":336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730381647530665, "dur":101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647530788, "dur":190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531063, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531001, "dur":120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531134, "dur":145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531313, "dur":89, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531416, "dur":102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531582, "dur":108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531704, "dur":82, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647531799, "dur":277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647532111, "dur":91, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647532205, "dur":1220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647532205, "dur":1220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647533436, "dur":2073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647535532, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1730381647537424, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647541548, "dur":13993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1730381647555554, "dur":450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1730381647556016, "dur":15126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":11, "ts":1730381647571146, "dur":157306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730381647527288, "dur":2347, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730381647529635, "dur":333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531086, "dur":231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531369, "dur":187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531571, "dur":69, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531663, "dur":77, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531772, "dur":103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531878, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531878, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647531991, "dur":330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647532336, "dur":85, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730381647532442, "dur":2831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado.x86_64" }}
+,{ "pid":12345, "tid":12, "ts":1730381647535280, "dur":2644, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647535279, "dur":2646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647537938, "dur":2286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647540228, "dur":12789, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647540228, "dur":12791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647553051, "dur":105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647553159, "dur":14583, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/ia2024/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647553159, "dur":14584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647567758, "dur":67, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/ia2024/expo_robocon/expo_semi_terminado_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1730381647567828, "dur":160636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730381647729676, "dur":139, "ph":"X", "name": "ProfilerWriteOutput" }
+,
