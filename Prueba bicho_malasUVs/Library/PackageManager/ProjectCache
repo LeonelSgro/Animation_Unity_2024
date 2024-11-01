@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638658351630000000
+      ticks: 638660871290000000
     m_Hash: 1948313843
   m_LockFileStatus:
     m_FilePath: /home/ia2024/expo_robocon/Animation_Unity_2024/Prueba bicho_malasUVs/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638658351630000000
+      ticks: 638660871290000000
     m_Hash: 4294616044
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
