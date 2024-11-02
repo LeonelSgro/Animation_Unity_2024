@@ -22,7 +22,7 @@ public class PlayLatestAudio : MonoBehaviour
         }
 
         // Define the path of the audio folder in persistent data path
-        folderPath = Path.Combine(Application.dataPath, "audio");
+        folderPath = Path.Combine(Application.persistentDataPath, "AudioFiles");
 
         // Check if the folder exists; if not, create it
         if (!Directory.Exists(folderPath))
